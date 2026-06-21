@@ -1,0 +1,4 @@
+.pixi/
+.ipynb_checkpoints/
+.data/control*.csv
+
